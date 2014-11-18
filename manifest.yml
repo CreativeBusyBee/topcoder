@@ -1,0 +1,6 @@
+applications:
+- services:
+  - cbb-top1
+  name: cbb-top1
+  path: webApp.war
+  memory: 512M
