@@ -60,7 +60,7 @@
 								<div class="col-lg-6">
 
 
-									<textarea id="textArea" name="content" rows="10"
+									<textarea id="textArea" name="content" rows="10" 
 										placeholder="Please enter a list of Blogs (maximum of 10 blogs)..."
 										required class="form-control">${content}</textarea>
 
